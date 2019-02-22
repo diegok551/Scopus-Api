@@ -1,2 +1,3 @@
 # Scopus-Java-API
-A java implementation for accessing SCOPUS API
+revisar los archivos .jar
+falta declarar clase principal
