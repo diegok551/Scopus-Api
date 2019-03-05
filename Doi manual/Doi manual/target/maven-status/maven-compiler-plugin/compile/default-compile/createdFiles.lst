@@ -1,0 +1,7 @@
+gr\kremmydas\scopusApi\Search.class
+gr\kremmydas\scopusApi\Entry.class
+gr\kremmydas\scopusApi\doi.class
+gr\kremmydas\scopusApi\SearchResult.class
+gr\kremmydas\scopusApi\Author.class
+gr\kremmydas\scopusApi\restClient\RESTclient.class
+gr\kremmydas\scopusApi\Utilities.class
